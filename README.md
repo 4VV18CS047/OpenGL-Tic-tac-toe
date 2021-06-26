@@ -4,7 +4,7 @@ Procedure to run this code :
 
 1)Download the zip file and extract and no changes must be made after unzipping
 
-2)Open C drive and under that open user  and select the folder with owner name (ex:C:\Users\Gurukiran D\source\repos> ).
+2)Open C drive and under that open user  and select the folder with owner name (eg:C:\Users\Gurukiran D\source\repos> ).
 
 3)Follow this directory path  (\source\repos> )
 
