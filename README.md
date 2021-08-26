@@ -1,4 +1,6 @@
 These above files are to be runned in visual studio and follow the procedure below to make sure your code runs properly.
+For Procedure to downlaod and setup glew and glut refer the below Youtube link:
+https://www.youtube.com/watch?v=8p76pJsUP44
 
 Procedure to run this code :
 
